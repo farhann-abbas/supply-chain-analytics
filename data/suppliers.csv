@@ -1,0 +1,26 @@
+Supplier_ID,Supplier_Name,Country,Supplier_Category,Payment_Terms_Days,Average_Lead_Time_Days
+SUP001,Supplier 01,USA,Packaging,15,6
+SUP002,Supplier 02,USA,Finished Goods,60,8
+SUP003,Supplier 03,USA,Raw Material,45,25
+SUP004,Supplier 04,USA,Raw Material,30,14
+SUP005,Supplier 05,USA,Packaging,15,13
+SUP006,Supplier 06,USA,Packaging,45,10
+SUP007,Supplier 07,USA,Raw Material,30,19
+SUP008,Supplier 08,USA,Raw Material,15,7
+SUP009,Supplier 09,Canada,Packaging,15,14
+SUP010,Supplier 10,USA,Packaging,30,21
+SUP011,Supplier 11,Canada,Finished Goods,60,7
+SUP012,Supplier 12,Canada,Raw Material,60,19
+SUP013,Supplier 13,USA,Raw Material,60,18
+SUP014,Supplier 14,USA,Packaging,45,13
+SUP015,Supplier 15,Canada,Finished Goods,45,13
+SUP016,Supplier 16,USA,Raw Material,30,16
+SUP017,Supplier 17,Canada,Raw Material,45,12
+SUP018,Supplier 18,USA,Raw Material,45,6
+SUP019,Supplier 19,Canada,Finished Goods,30,12
+SUP020,Supplier 20,USA,Raw Material,60,22
+SUP021,Supplier 21,Canada,Raw Material,60,20
+SUP022,Supplier 22,USA,Raw Material,15,21
+SUP023,Supplier 23,Canada,Raw Material,60,23
+SUP024,Supplier 24,Canada,Finished Goods,60,12
+SUP025,Supplier 25,Canada,Finished Goods,15,17

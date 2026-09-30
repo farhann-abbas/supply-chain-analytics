@@ -1,0 +1,151 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Selling_Price,Supplier_ID,Lead_Time_Days,Safety_Stock,Reorder_Point,Shelf_Life_Days
+SKU001,Juice 001,Beverages,Juice,3.18,6.97,SUP023,25,122,171,180
+SKU002,Roasted Snacks 002,Snacks,Roasted Snacks,10.55,21.32,SUP006,7,72,307,270
+SKU003,Mango Pickle 003,Pickles,Mango Pickle,7.87,15.98,SUP010,16,108,98,180
+SKU004,Tea 004,Beverages,Tea,6.13,13.46,SUP025,23,127,104,270
+SKU005,Namkeen 005,Snacks,Namkeen,7.76,12.51,SUP014,11,37,138,270
+SKU006,Mixed Pickle 006,Pickles,Mixed Pickle,4.49,6.93,SUP014,24,111,313,180
+SKU007,Chilli Sauce 007,Sauces,Chilli Sauce,8.36,14.6,SUP022,10,73,155,270
+SKU008,Chutney 008,Spreads,Chutney,10.3,19.34,SUP023,14,33,400,540
+SKU009,Juice 009,Beverages,Juice,11.58,26.08,SUP025,17,101,102,120
+SKU010,Juice 010,Beverages,Juice,2.72,6.02,SUP024,5,108,376,90
+SKU011,BBQ Sauce 011,Sauces,BBQ Sauce,10.01,21.24,SUP007,7,52,310,120
+SKU012,Mango Pickle 012,Pickles,Mango Pickle,11.08,25.01,SUP024,16,52,97,540
+SKU013,Chutney 013,Spreads,Chutney,7.59,12.99,SUP005,7,120,180,90
+SKU014,Lime Pickle 014,Pickles,Lime Pickle,9.53,18.29,SUP013,13,34,395,120
+SKU015,Roasted Snacks 015,Snacks,Roasted Snacks,10.87,20.67,SUP007,8,48,85,365
+SKU016,Roasted Snacks 016,Snacks,Roasted Snacks,2.94,6.86,SUP012,17,81,183,270
+SKU017,Drink Mix 017,Beverages,Drink Mix,10.74,18.88,SUP025,11,148,332,540
+SKU018,Juice 018,Beverages,Juice,10.5,15.29,SUP019,12,81,214,90
+SKU019,Lime Pickle 019,Pickles,Lime Pickle,3.02,5.01,SUP020,13,132,367,90
+SKU020,Drink Mix 020,Beverages,Drink Mix,8.72,18.54,SUP017,9,132,130,180
+SKU021,Mixed Pickle 021,Pickles,Mixed Pickle,5.64,8.36,SUP021,5,148,175,120
+SKU022,Drink Mix 022,Beverages,Drink Mix,11.85,19.91,SUP024,8,142,304,540
+SKU023,Fruit Spread 023,Spreads,Fruit Spread,8.04,15.75,SUP006,20,116,250,270
+SKU024,Chutney 024,Spreads,Chutney,7.58,15.87,SUP007,23,109,196,270
+SKU025,Juice 025,Beverages,Juice,8.66,15.74,SUP025,22,123,178,180
+SKU026,Chilli Sauce 026,Sauces,Chilli Sauce,11.19,25.55,SUP016,7,26,301,120
+SKU027,Tomato Sauce 027,Sauces,Tomato Sauce,3.81,5.86,SUP023,16,56,209,180
+SKU028,Tomato Sauce 028,Sauces,Tomato Sauce,4.97,10.63,SUP024,7,73,169,90
+SKU029,Tea 029,Beverages,Tea,11.3,24.82,SUP016,12,103,303,180
+SKU030,BBQ Sauce 030,Sauces,BBQ Sauce,11.72,20.16,SUP003,18,101,243,540
+SKU031,Peanut Butter 031,Spreads,Peanut Butter,3.1,4.55,SUP024,18,40,353,270
+SKU032,Namkeen 032,Snacks,Namkeen,4.53,8.9,SUP006,23,138,71,540
+SKU033,Chutney 033,Spreads,Chutney,10.83,22.2,SUP015,6,40,335,90
+SKU034,Tomato Sauce 034,Sauces,Tomato Sauce,3.69,7.1,SUP017,8,54,241,90
+SKU035,Drink Mix 035,Beverages,Drink Mix,11.5,26.67,SUP024,7,143,282,365
+SKU036,Peanut Butter 036,Spreads,Peanut Butter,7.17,14.29,SUP021,5,135,240,365
+SKU037,BBQ Sauce 037,Sauces,BBQ Sauce,3.03,6.0,SUP015,7,123,223,120
+SKU038,Lime Pickle 038,Pickles,Lime Pickle,6.8,15.53,SUP016,21,123,348,540
+SKU039,Fruit Spread 039,Spreads,Fruit Spread,9.94,22.06,SUP013,17,79,362,270
+SKU040,Juice 040,Beverages,Juice,1.97,3.6,SUP002,18,134,192,270
+SKU041,Lime Pickle 041,Pickles,Lime Pickle,8.46,14.9,SUP011,21,89,320,540
+SKU042,Juice 042,Beverages,Juice,6.84,14.92,SUP006,16,127,54,270
+SKU043,Fruit Spread 043,Spreads,Fruit Spread,7.04,14.47,SUP019,24,32,173,120
+SKU044,BBQ Sauce 044,Sauces,BBQ Sauce,5.88,12.68,SUP012,9,136,367,90
+SKU045,Peanut Butter 045,Spreads,Peanut Butter,3.07,4.91,SUP016,6,115,175,540
+SKU046,Tomato Sauce 046,Sauces,Tomato Sauce,4.22,9.95,SUP023,11,88,327,365
+SKU047,Chips 047,Snacks,Chips,5.04,10.94,SUP014,18,88,96,90
+SKU048,Juice 048,Beverages,Juice,6.32,9.75,SUP001,20,104,88,270
+SKU049,Chutney 049,Spreads,Chutney,1.72,4.04,SUP019,8,53,229,120
+SKU050,Mango Pickle 050,Pickles,Mango Pickle,7.03,14.76,SUP017,20,43,385,120
+SKU051,Tea 051,Beverages,Tea,9.85,20.62,SUP019,7,143,82,90
+SKU052,Namkeen 052,Snacks,Namkeen,7.96,17.75,SUP013,12,93,92,270
+SKU053,Tea 053,Beverages,Tea,5.27,7.84,SUP008,22,54,264,90
+SKU054,Fruit Spread 054,Spreads,Fruit Spread,8.56,15.18,SUP021,23,124,245,120
+SKU055,Mango Pickle 055,Pickles,Mango Pickle,11.32,16.84,SUP017,25,120,241,180
+SKU056,Chips 056,Snacks,Chips,3.9,7.81,SUP023,9,31,232,365
+SKU057,BBQ Sauce 057,Sauces,BBQ Sauce,2.31,5.33,SUP013,24,131,266,540
+SKU058,Roasted Snacks 058,Snacks,Roasted Snacks,5.4,7.89,SUP014,13,95,314,270
+SKU059,Tea 059,Beverages,Tea,6.52,9.97,SUP021,9,118,74,270
+SKU060,Juice 060,Beverages,Juice,9.75,21.45,SUP005,17,61,235,540
+SKU061,Roasted Snacks 061,Snacks,Roasted Snacks,7.1,15.06,SUP012,19,95,58,120
+SKU062,Tomato Sauce 062,Sauces,Tomato Sauce,10.26,19.03,SUP005,12,46,171,120
+SKU063,Peanut Butter 063,Spreads,Peanut Butter,3.72,7.45,SUP017,17,84,391,270
+SKU064,Tomato Sauce 064,Sauces,Tomato Sauce,9.34,16.88,SUP010,23,127,231,180
+SKU065,Lime Pickle 065,Pickles,Lime Pickle,2.4,4.6,SUP008,17,145,107,270
+SKU066,Chutney 066,Spreads,Chutney,8.21,17.72,SUP017,17,111,239,90
+SKU067,Tomato Sauce 067,Sauces,Tomato Sauce,3.61,8.54,SUP016,16,80,352,365
+SKU068,Chutney 068,Spreads,Chutney,11.13,18.81,SUP017,23,39,96,90
+SKU069,Tomato Sauce 069,Sauces,Tomato Sauce,8.73,15.84,SUP012,15,31,379,540
+SKU070,Juice 070,Beverages,Juice,4.2,6.84,SUP005,12,79,227,270
+SKU071,BBQ Sauce 071,Sauces,BBQ Sauce,8.74,17.12,SUP006,5,65,84,365
+SKU072,Lime Pickle 072,Pickles,Lime Pickle,9.04,18.38,SUP018,6,29,361,540
+SKU073,Namkeen 073,Snacks,Namkeen,2.98,5.49,SUP025,5,30,390,120
+SKU074,Roasted Snacks 074,Snacks,Roasted Snacks,7.35,11.1,SUP017,13,118,360,540
+SKU075,Chutney 075,Spreads,Chutney,9.3,21.55,SUP010,9,72,214,120
+SKU076,Namkeen 076,Snacks,Namkeen,3.8,6.25,SUP004,5,70,222,365
+SKU077,Tomato Sauce 077,Sauces,Tomato Sauce,9.38,14.02,SUP002,12,58,203,120
+SKU078,Roasted Snacks 078,Snacks,Roasted Snacks,4.52,10.06,SUP021,16,76,161,365
+SKU079,Lime Pickle 079,Pickles,Lime Pickle,3.5,5.53,SUP018,6,57,355,120
+SKU080,Roasted Snacks 080,Snacks,Roasted Snacks,10.96,19.52,SUP019,10,98,79,120
+SKU081,Tomato Sauce 081,Sauces,Tomato Sauce,9.8,18.49,SUP020,21,93,322,270
+SKU082,Fruit Spread 082,Spreads,Fruit Spread,7.9,14.06,SUP019,15,62,289,180
+SKU083,BBQ Sauce 083,Sauces,BBQ Sauce,2.58,4.11,SUP003,20,27,233,90
+SKU084,Roasted Snacks 084,Snacks,Roasted Snacks,8.41,13.57,SUP010,23,40,54,120
+SKU085,Fruit Spread 085,Spreads,Fruit Spread,2.16,3.38,SUP002,13,31,395,540
+SKU086,Chilli Sauce 086,Sauces,Chilli Sauce,4.77,8.37,SUP011,19,140,263,540
+SKU087,Peanut Butter 087,Spreads,Peanut Butter,4.19,9.28,SUP015,21,118,302,270
+SKU088,Lime Pickle 088,Pickles,Lime Pickle,6.94,14.81,SUP015,18,75,56,180
+SKU089,Roasted Snacks 089,Snacks,Roasted Snacks,1.53,3.48,SUP023,10,134,64,90
+SKU090,Fruit Spread 090,Spreads,Fruit Spread,7.29,16.39,SUP020,16,44,194,365
+SKU091,Chilli Sauce 091,Sauces,Chilli Sauce,9.72,18.7,SUP012,19,130,83,90
+SKU092,Chips 092,Snacks,Chips,4.26,7.65,SUP001,6,78,278,90
+SKU093,Fruit Spread 093,Spreads,Fruit Spread,3.63,6.52,SUP024,20,23,399,180
+SKU094,BBQ Sauce 094,Sauces,BBQ Sauce,1.76,2.58,SUP002,9,55,272,540
+SKU095,Tea 095,Beverages,Tea,10.55,23.49,SUP002,21,113,111,90
+SKU096,Chips 096,Snacks,Chips,4.22,9.2,SUP020,10,137,373,180
+SKU097,Tomato Sauce 097,Sauces,Tomato Sauce,6.92,14.68,SUP011,18,83,87,365
+SKU098,Juice 098,Beverages,Juice,6.95,10.42,SUP012,22,29,310,120
+SKU099,Mango Pickle 099,Pickles,Mango Pickle,8.59,13.17,SUP011,9,92,322,90
+SKU100,Chips 100,Snacks,Chips,2.35,5.31,SUP012,16,97,186,120
+SKU101,Roasted Snacks 101,Snacks,Roasted Snacks,11.21,23.94,SUP003,12,30,278,540
+SKU102,Peanut Butter 102,Spreads,Peanut Butter,10.0,20.82,SUP025,8,108,286,120
+SKU103,Lime Pickle 103,Pickles,Lime Pickle,8.91,20.53,SUP025,10,116,72,90
+SKU104,Tomato Sauce 104,Sauces,Tomato Sauce,5.43,10.62,SUP007,25,123,153,180
+SKU105,Chips 105,Snacks,Chips,11.35,23.23,SUP001,12,61,64,365
+SKU106,Drink Mix 106,Beverages,Drink Mix,10.85,23.86,SUP004,10,116,338,540
+SKU107,Mixed Pickle 107,Pickles,Mixed Pickle,6.54,14.17,SUP024,10,66,277,365
+SKU108,Tea 108,Beverages,Tea,9.81,15.62,SUP002,19,87,381,365
+SKU109,Roasted Snacks 109,Snacks,Roasted Snacks,7.66,15.22,SUP011,15,46,118,270
+SKU110,Mixed Pickle 110,Pickles,Mixed Pickle,3.66,6.78,SUP008,18,126,267,365
+SKU111,Mango Pickle 111,Pickles,Mango Pickle,3.96,8.47,SUP024,15,119,373,365
+SKU112,Chutney 112,Spreads,Chutney,2.85,5.69,SUP008,13,70,78,540
+SKU113,Chilli Sauce 113,Sauces,Chilli Sauce,11.04,17.3,SUP022,9,109,159,270
+SKU114,Tomato Sauce 114,Sauces,Tomato Sauce,10.59,20.58,SUP020,12,72,186,120
+SKU115,Tomato Sauce 115,Sauces,Tomato Sauce,7.72,12.03,SUP006,24,44,139,180
+SKU116,Lime Pickle 116,Pickles,Lime Pickle,4.95,10.65,SUP022,21,147,300,180
+SKU117,BBQ Sauce 117,Sauces,BBQ Sauce,2.99,4.43,SUP022,5,48,112,180
+SKU118,Mixed Pickle 118,Pickles,Mixed Pickle,8.37,13.55,SUP022,24,124,226,270
+SKU119,Tea 119,Beverages,Tea,11.97,23.07,SUP017,5,142,260,540
+SKU120,Peanut Butter 120,Spreads,Peanut Butter,6.3,12.52,SUP015,22,20,127,180
+SKU121,Mixed Pickle 121,Pickles,Mixed Pickle,6.97,13.29,SUP008,10,82,181,90
+SKU122,Chutney 122,Spreads,Chutney,11.42,20.61,SUP001,14,129,211,270
+SKU123,Drink Mix 123,Beverages,Drink Mix,10.56,19.4,SUP015,7,91,103,90
+SKU124,Chutney 124,Spreads,Chutney,10.78,21.33,SUP024,12,54,145,540
+SKU125,Namkeen 125,Snacks,Namkeen,2.72,4.99,SUP023,20,26,379,90
+SKU126,Chutney 126,Spreads,Chutney,2.53,5.78,SUP020,22,21,352,365
+SKU127,Chips 127,Snacks,Chips,10.11,18.15,SUP006,16,39,310,365
+SKU128,Chilli Sauce 128,Sauces,Chilli Sauce,10.5,17.41,SUP024,16,43,130,120
+SKU129,Chips 129,Snacks,Chips,6.29,10.21,SUP009,22,134,258,540
+SKU130,Mango Pickle 130,Pickles,Mango Pickle,5.55,9.2,SUP013,15,23,203,120
+SKU131,Lime Pickle 131,Pickles,Lime Pickle,8.58,19.15,SUP002,25,61,90,540
+SKU132,Tomato Sauce 132,Sauces,Tomato Sauce,8.24,18.44,SUP025,25,125,391,365
+SKU133,Chips 133,Snacks,Chips,7.69,16.01,SUP022,11,141,95,120
+SKU134,Namkeen 134,Snacks,Namkeen,2.09,4.23,SUP004,25,30,345,180
+SKU135,BBQ Sauce 135,Sauces,BBQ Sauce,4.41,8.77,SUP022,6,74,160,540
+SKU136,Peanut Butter 136,Spreads,Peanut Butter,4.12,8.09,SUP002,23,100,250,120
+SKU137,Peanut Butter 137,Spreads,Peanut Butter,2.01,4.3,SUP007,15,123,91,90
+SKU138,Roasted Snacks 138,Snacks,Roasted Snacks,2.04,2.96,SUP005,23,121,61,180
+SKU139,Tea 139,Beverages,Tea,11.11,17.55,SUP015,14,76,360,90
+SKU140,Drink Mix 140,Beverages,Drink Mix,11.55,25.07,SUP022,25,100,264,365
+SKU141,Chilli Sauce 141,Sauces,Chilli Sauce,6.49,10.77,SUP016,13,128,75,120
+SKU142,BBQ Sauce 142,Sauces,BBQ Sauce,7.2,13.68,SUP007,11,33,384,365
+SKU143,BBQ Sauce 143,Sauces,BBQ Sauce,11.18,26.52,SUP014,22,135,152,90
+SKU144,Namkeen 144,Snacks,Namkeen,2.03,4.29,SUP004,12,127,88,90
+SKU145,Fruit Spread 145,Spreads,Fruit Spread,4.64,9.49,SUP010,20,127,360,180
+SKU146,Mixed Pickle 146,Pickles,Mixed Pickle,1.2,1.95,SUP007,22,115,276,180
+SKU147,Juice 147,Beverages,Juice,9.49,17.38,SUP010,25,35,285,90
+SKU148,BBQ Sauce 148,Sauces,BBQ Sauce,5.75,12.37,SUP018,21,22,191,540
+SKU149,Drink Mix 149,Beverages,Drink Mix,3.72,5.54,SUP024,5,92,354,90
+SKU150,Tea 150,Beverages,Tea,11.46,25.18,SUP024,15,143,247,540

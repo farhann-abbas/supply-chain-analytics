@@ -1,0 +1,6 @@
+Warehouse_ID,Warehouse_Name,Location,Region,Warehouse_Type,Capacity_Cases
+WH001,New York DC,New York,USA,Distribution Center,12000
+WH002,Chicago DC,Chicago,USA,Distribution Center,10000
+WH003,Toronto DC,Toronto,Canada,Distribution Center,9000
+WH004,Vancouver DC,Vancouver,Canada,Distribution Center,8000
+WH005,Atlanta DC,Atlanta,USA,Distribution Center,8500
