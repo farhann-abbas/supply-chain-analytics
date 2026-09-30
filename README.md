@@ -9,6 +9,14 @@ The analysis focuses on inventory management, procurement performance, order ful
 The project uses raw supply chain transaction data and calculates business metrics dynamically using SQL rather than relying on pre-calculated analysis tables.
 
 ---
+## 📊 Project Highlights
+
+- 150 Products
+- 15,000 Sales Orders
+- 5,000 Purchase Orders
+- 90.30% Overall Fill Rate
+- 9.16x Inventory Turnover
+- 39.85 Days Inventory
 
 ## 🎯 Business Objectives
 
