@@ -2,21 +2,40 @@
 
 ## 📌 Project Overview
 
-This project analyzes end-to-end supply chain operations using **PostgreSQL and SQL**.
+This project analyzes end-to-end supply chain operations using **PostgreSQL, SQL, Excel, and Power BI**.
 
-The analysis focuses on inventory management, procurement performance, order fulfillment, inventory turnover, supplier risk, and replenishment planning.
+The analysis focuses on:
 
-The project uses raw supply chain transaction data and calculates business metrics dynamically using SQL rather than relying on pre-calculated analysis tables.
+- Inventory management
+- Procurement performance
+- Order fulfillment
+- Inventory turnover
+- Supplier performance and risk
+- Replenishment planning
+- ABC and XYZ inventory classification
+- Working capital and inventory efficiency
+
+The project uses raw supply chain transaction data and calculates business metrics dynamically using SQL, Excel formulas, PivotTables, and Power BI measures rather than relying only on pre-calculated analysis tables.
 
 ---
+
 ## 📊 Project Highlights
 
-- 150 Products
-- 15,000 Sales Orders
-- 5,000 Purchase Orders
-- 90.30% Overall Fill Rate
-- 9.16x Inventory Turnover
-- 39.85 Days Inventory
+| KPI | Result |
+|---|---:|
+| Products | 150 |
+| Sales Orders | 15,000 |
+| Purchase Orders | 5,000 |
+| Annual Demand | 311,056 units |
+| Overall Customer Fill Rate | 90.30% |
+| Supplier Fill Rate | 86.32% |
+| Inventory Turnover | 9.16x |
+| Days Inventory | 39.85 days |
+| Current Inventory Value | $92.20K |
+| Total Purchase Spend | $22.90M |
+| Products Below Reorder Point | 28 |
+
+---
 
 ## 🎯 Business Objectives
 
@@ -58,8 +77,10 @@ The dataset represents an FMCG-style supply chain environment covering products,
 | Tool | Purpose |
 |---|---|
 | PostgreSQL | Database management and SQL analysis |
-| DBeaver | SQL development and query execution |
 | SQL | Data validation, transformation, analysis and KPI calculation |
+| Excel | Inventory analysis, ABC/XYZ analysis, replenishment analysis and reporting |
+| Power BI | Executive dashboard and KPI visualization |
+| DBeaver | SQL development and query execution |
 | VS Code | SQL script organization and project development |
 | Git / GitHub | Version control and portfolio presentation |
 
@@ -79,3 +100,25 @@ customers
 inventory
 sales_orders
 purchase_orders
+```
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an executive view of supply chain performance.
+
+### Executive Dashboard Preview
+
+![Supply Chain Executive Dashboard](screenshots/Power%20Bi%20Dashboard.png)
+
+### Executive KPIs
+
+- Total Ordered Quantity
+- Total Shipped Quantity
+- Overall Fill Rate
+- Supplier Fill Rate
+- Total Purchase Spend
+- Products Below Reorder Point
+- Current Inventory Value
+- Inventory Turnover
+- Days Inventory
+- Products With Inventory
